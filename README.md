@@ -3,7 +3,7 @@ OceanAcidification
 
 R Scripts to describe OA systems
 
-This repo contains R scripts and markdown files for describing OA systems. It uses the ```seacarb()``` function. Most scripts will include ```require(seacarb)``` but should be checked.
+This repo contains R scripts and markdown files for describing OA systems. It uses the ```seacarb()``` function. Most scripts will include ```require(package=seacarb)``` and ```library(seacarb)``` but should be checked.
 ##Plots
 Plots are constructed using the base graphics package.
 ##OA Parameter Units
