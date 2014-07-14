@@ -1,3 +1,5 @@
+library(seacarb)
+
 loTEMP<-carb(flag=8,seq(7.5,9,length.out=15),0.00236,T=10,S=37)
 midTEMP<-carb(flag=8,seq(7.5,9,length.out=15),0.00236,T=18,S=37)
 hiTEMP<-carb(flag=8,seq(7.5,9,length.out=15),0.00236,T=26,S=37)
