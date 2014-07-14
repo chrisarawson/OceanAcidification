@@ -10,7 +10,7 @@ Plots are constructed using the base graphics package.
 The units for each parameter are described in ```?seacarb()```. The most important to note are:
 
 Parameter |Abbreviation |Unit
-----------|----------------
+----------|-------------|---
 CO2 partial Pressure |pCO2      |micro-Atmospheres
 pH        |pH |dimensionless
 Tot Alkalinity|ALK   |mol/kg
