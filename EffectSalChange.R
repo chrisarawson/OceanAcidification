@@ -1,3 +1,5 @@
+library(seacarb)
+
 loSAL<-carb(flag=8,seq(7.5,9,length.out=15),0.00472,T=18,S=17)
 midSAL<-carb(flag=8,seq(7.5,9,length.out=15),0.00472,T=18,S=27)
 hiSAL<-carb(flag=8,seq(7.5,9,length.out=15),0.00472,T=18,S=37)
