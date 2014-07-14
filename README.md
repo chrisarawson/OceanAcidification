@@ -9,11 +9,11 @@ Plots are constructed using the base graphics package.
 ##OA Parameter Units
 The units for each parameter are described in ```?seacarb()```. The most important to note are:
 
-Parameter |Unit
+Parameter |Abbreviation |Unit
 ----------|----------------
-pCO2      |micro-Atmosperes
-pH        |dimensionless
-Tot Alk   |mol/kg
-Sal       |ppt
-Temp      |degrees C
-
+CO2 partial Pressure |pCO2      |micro-Atmospheres
+pH        |pH |dimensionless
+Tot Alkalinity|ALK   |mol/kg
+Salinity|S       |ppt
+Temperature|T      |degrees C
+Pressure|P | Bar
